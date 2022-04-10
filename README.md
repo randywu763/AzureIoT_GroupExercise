@@ -5,7 +5,6 @@
 
 2. The owner of the repository will review your Pull Request (PR) and suggest the appropriate changes
 
-3. After your PR has been merged into the master repository, perform “fetch upstream” operations (on both fork & clone)
+3. After your PR has been merged into the master repository, perform “fetch upstream” operations (for both fork & clone)
 
 4. Verify your message has been updated correctly in all 3 places (master, fork, clone)
-
