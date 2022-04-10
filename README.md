@@ -1,4 +1,5 @@
-# Azure IoT Group Exercise
+# Azure IoT Specialists Group
+# Team Exercise for GitHub Training
 
 1. Add a text message to the file which includes at least one spelling error and ends with your initials + date
 (e.g. “I am not sure how to spell mispell! -RW (4/21/22)”)
