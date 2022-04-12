@@ -1,7 +1,7 @@
 # Azure IoT Specialists Group
 ## Team Exercise for GitHub Training
 
-1. Add a message to the single TXT file which includes at least one spelling error and ends with your initials + date
+1. Add TWO messages to the single TXT file which includes at least one spelling error and ends with your initials + date
 (e.g. “I am not sure how to spell mispell! -RW (4/21/22)”)
 
 2. The owner of the repository will review your Pull Request (PR) and suggest the appropriate changes
